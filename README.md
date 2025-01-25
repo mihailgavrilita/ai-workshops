@@ -1,2 +1,6 @@
 # ai-workshops
-A collection of workshops in the AI field (work in progress)
+
+A series of workshops on AI applications.
+
+1. [llm-workshop](./llm-workshop);
+2. [fakecontent-workshop](./fakecontent-workshop).
